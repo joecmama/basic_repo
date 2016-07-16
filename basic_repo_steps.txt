@@ -1,0 +1,10 @@
+# basic_repo steps
+1) Created github repo
+2) Created basic_repo directory
+3) git init in basic_repo
+4) Create a few files
+echo "# basic_repo" >> README.md
+git init
+git add README.md
+git remote add origin https://github.com/joecmama/basic_repo.git
+git push -u origin master
