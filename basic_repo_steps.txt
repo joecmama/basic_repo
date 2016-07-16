@@ -8,3 +8,4 @@ git init
 git add README.md
 git remote add origin https://github.com/joecmama/basic_repo.git
 git push -u origin master
+5) Make changes, push to github.
